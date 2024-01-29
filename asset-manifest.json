@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab015a0a.css",
-    "main.js": "/static/js/main.0561e7ca.js",
+    "main.js": "/static/js/main.ac1b5dbc.js",
     "static/media/Pretendard-Black.woff": "/static/media/Pretendard-Black.c51355ddc1caec596031.woff",
     "static/media/Pretendard-ExtraBold.woff": "/static/media/Pretendard-ExtraBold.f6491e200d1fb5c5917b.woff",
     "static/media/Pretendard-Bold.woff": "/static/media/Pretendard-Bold.1f1dbbbf311ffffcc770.woff",
@@ -20,13 +20,16 @@
     "static/media/Pretendard-Light.woff2": "/static/media/Pretendard-Light.1fc5521353ec20635e8e.woff2",
     "static/media/Pretendard-ExtraLight.woff2": "/static/media/Pretendard-ExtraLight.6a3dddfd84c05761ef44.woff2",
     "static/media/Pretendard-Thin.woff2": "/static/media/Pretendard-Thin.bb7cedf4446fa24dda9d.woff2",
+    "static/media/sun.svg": "/static/media/sun.a3c22dce605f8fbdc4bff93ae77fedcc.svg",
+    "static/media/moon.svg": "/static/media/moon.a2aa15485c151e684039097a63820212.svg",
+    "static/media/floating.svg": "/static/media/floating.5b82dd6b7b56ce8f6dee92a83c1a6b7e.svg",
     "index.html": "/index.html",
-    "static/media/cursor.svg": "/static/media/cursor.f12b4df12d368f54614dc30a6f3e838a.svg",
+    "static/media/cursor.svg": "/static/media/cursor.2a54ce5afd169f0b9e72ca3ec6deda59.svg",
     "main.ab015a0a.css.map": "/static/css/main.ab015a0a.css.map",
-    "main.0561e7ca.js.map": "/static/js/main.0561e7ca.js.map"
+    "main.ac1b5dbc.js.map": "/static/js/main.ac1b5dbc.js.map"
   },
   "entrypoints": [
     "static/css/main.ab015a0a.css",
-    "static/js/main.0561e7ca.js"
+    "static/js/main.ac1b5dbc.js"
   ]
 }
